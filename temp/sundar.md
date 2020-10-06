@@ -136,7 +136,7 @@ So we had to implement an intermediate native code wrapper to call the original 
 
 
 <center>~</center>
-## Enters Panama Foreign Linker API
+## Panama Foreign Linker API
 
 This example is using Panama's Foreign Linker API to invoke the same native function.
 
@@ -186,7 +186,7 @@ As we can see, Panama's Foreign Linker API is straight forward as it doesn't req
 
 <center>~</center>
 
-## Enters _jextract_
+## _jextract_
 
 In the previous example, we managed to invoke `getpid` from Java without writing any native code wrapper. But we had to deal with [method handle](https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/lang/invoke/MethodHandle.html), FunctionDescriptor, method handle type, C symbol name, ... just to call a simple C API. 
 
