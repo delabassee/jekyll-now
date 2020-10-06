@@ -129,7 +129,7 @@ So we had to implement an intermediate native code wrapper to call original nati
 
 
 <center>~</center>
-# Enters Panama Foreign Linker API
+## Enters Panama Foreign Linker API
 
 This example is using Panama's Foreign Linker API to invoke the same native function.
 
@@ -179,7 +179,7 @@ As we can see, Panama's Foreign Linker API is straight forward as it doesn't req
 
 <center>~</center>
 
-# Enters _jextract_
+## Enters _jextract_
 
 In the previous example, we managed to invoke `getpid` from Java without writing any native code wrapper. But we had to deal with [method handle](https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/lang/invoke/MethodHandle.html), FunctionDescriptor, method handle type, C symbol name, ... just to call a simple C API. 
 
@@ -237,7 +237,7 @@ warning: using incubating module(s): jdk.incubator.foreign
 
 <center>~</center>
 
-### Conclusions
+## Conclusion
 
 This post uses 2 approaches to invoke from Java the native `getpid` function, using the old JNI approach, and using the new **Panama Foreign Linker API**. We can see that the Foreign Linker API is simple and straight forward as it does not require to deal with an intermediate native code wrapper. Moreover, **jextract** is a Panama tool that simplifies things further as it parses a C header file to generate a Java class that presents a simpler Java static method to invoke the underlying C function(s).
 
