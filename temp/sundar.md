@@ -14,9 +14,7 @@ At a high level, there are 2 things to deal with when accessing native APIs from
 
 Until now, there were different approaches to access native memory from Java. For example, one can use [ByteBuffer.allocateDirect](https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/nio/ByteBuffer.html#allocateDirect(int)). One of the problem with this approach is that the native memory allocated via `allocateDirect` is only freed when the ByteBuffer is garbage collected! Another 'solution' us to rely on undocumented and unsupported Unsafe classes but this is britlle and not recommended! 
 
-To invoke native code (ex. C, C++, etc.) from Java, [Java Native Interface (JNI)](https://docs.oracle.com/en/java/javase/15/docs/specs/jni/index.html) has always been the de-facto solution but JNI is cumbersome (**list other drawbacks???**).
-
-
+To invoke native code (ex. C, C++, etc.) from Java, [Java Native Interface (JNI)](https://docs.oracle.com/en/java/javase/15/docs/specs/jni/index.html) has always been the de-facto solution but JNI is cumbersome.
 
 
 Panama solves those issues by introducing a supported, efficient, and secure way to invoke native code from Java.
@@ -181,13 +179,14 @@ As we can see, Panama's Foreign Linker API is straight forward as it doesn't req
 
 <center>~</center>
 
-# Enters Panama _jextract_
+# Enters _jextract_
 
-In the previous example, we managed to invoke `getpid` from Java without writing any native code wrapper. But we have to deal with [method handle](https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/lang/invoke/MethodHandle.html), FunctionDescriptor, method handle type, C symbol name, ... just to call a simple C API. 
+In the previous example, we managed to invoke `getpid` from Java without writing any native code wrapper. But we had to deal with [method handle](https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/lang/invoke/MethodHandle.html), FunctionDescriptor, method handle type, C symbol name, ... just to call a simple C API. 
 
-This is where **jextract** comes in! It is a tool that extracts Java interface(s) from C header file(s).
+This is where **jextract** comes in! It is a Panama tool that generates Java classe(s) from C header file(s). Those generated classe(s) handle(s) native symbol lookup, calculate(s) function descriptor from C declaration method handle creation, and present simpler Java static method(s) to invoke the underlying C function(s). In short, **jextract** hides some of the underlying details of the Panama Foreign Linker API.
 
-Let's do the same `getpid` example using **jextract**.
+
+Let's take the same `getpid` example but using **jextract**.
 
 ```c
 // simple header file that contains C declaration
@@ -195,12 +194,13 @@ Let's do the same `getpid` example using **jextract**.
 int getpid();
 ```
 
-The following command extracts a Java interface for the above C header, this interface will use the `com.unix` package.
+The following command extracts a Java interface for the above C header.
 
 ```sh
 $ jextract -t com.unix getpid.h
 WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.jextract
 ```
+💡 `-t com.unix` is used to specify the target package.
 
 Now let's use `com.unix.* `from a new Main class (_Main2.java_).
 
@@ -239,6 +239,6 @@ warning: using incubating module(s): jdk.incubator.foreign
 
 ### Conclusions
 
-This post uses 2 approaches to invoke from Java the native `getpid` function, using the old JNI approach, and using the new **Panama Foreign Linker API**. We can see that the Foreign Linker API is simple and straight forward as it does not require to deal with an intermediate native code wrapper. Moreover, **jextract** is a Panama tool that can simplify things further as it parses headers to generate the corresponding native bindings. 
+This post uses 2 approaches to invoke from Java the native `getpid` function, using the old JNI approach, and using the new **Panama Foreign Linker API**. We can see that the Foreign Linker API is simple and straight forward as it does not require to deal with an intermediate native code wrapper. Moreover, **jextract** is a Panama tool that simplifies things further as it parses a C header file to generate a Java class that presents a simpler Java static method to invoke the underlying C function(s).
 
 
