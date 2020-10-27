@@ -14,7 +14,7 @@ I often use [Helidon](https://helidon.io/#/) to demo new Java SE features, inclu
 </p>
 <br>
 
-As a reminder, Java SE Preview Features should explicitly be enabled at both compile-time and run time. This is done by simpling passing the `--enable-preview` flag to the javac compiler, or to the JVM. For more details on Java SE Preview Features, check this [article](https://blogs.oracle.com/javamagazine/the-role-of-preview-features-in-java-14-java-15-java-16-and-beyond).
+As a reminder, Java SE Preview Features should explicitly be enabled at both compile-time and run-time. This is done by simpling passing the `--enable-preview` flag to the javac compiler, or to the JVM. For more details on Java SE Preview Features, check this [article](https://blogs.oracle.com/javamagazine/the-role-of-preview-features-in-java-14-java-15-java-16-and-beyond).
 
 <h3>Compile-time</h3>
 
@@ -47,7 +47,7 @@ To enable Preview Features during tests, update the Helidon project's `pom.xml`.
 </plugin>
 ```
 
-<h3>Runtime</h3>
+<h3>Run-time</h3>
 
 If the Helidon application is **launched from the command line**, simply pass the flag to the JVM.
 

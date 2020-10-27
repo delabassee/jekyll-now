@@ -12,7 +12,11 @@ Over the years, David has championed Java extensively throughout the world, by p
 
 David lives in Belgium. In his spare time, he enjoys playing video games with his daughter and tinkering with technologies such as domotics, electronics, and pinballs.
 
+David also co-hosts the [Inside Java podcast](https://inside.java/podcast).
+
 You can follow him on Twitter [@delabassee](https://twitter.com/delabassee).
+
+
 
 
 * [Headshot square 150 × 150 pixels (300 pixels/inch) 30 KB](https://raw.githubusercontent.com/delabassee/delabassee.github.io/master/images/Delabassee_150.jpg)

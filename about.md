@@ -14,6 +14,8 @@ Prior to that, I was working as a Software Evangelist in the Oracle Java EE orga
 
 I am a regular speaker at [conferences and user groups, large and small, local and global](http://delabassee.com/conferences/).
 
+I am co-hosting with Chad Arimura the [Inside Java Podcast](https://inside.java/podcast).
+
 I can be reached on [Twitter](https://twitter.com/delabassee) (DMs are open).
 
 You can find a more formal, third person bio [here](/bio).
