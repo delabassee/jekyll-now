@@ -15,7 +15,7 @@ Please note that Oracle supports 64-bit ARM for both Oracle JDK builds and Oracl
 </p>
 
 
-This document is using **Unbuntu 20.10 (RPi 4/400)** on the newer Pi 400 but any other Pi models, or any other ARM64 (AArch64) hardware, with any supported 64 bits Linux variants should work. 
+This post is using **Unbuntu 20.10 (RPi 4/400)** on the newer Pi 400 but any other Pi models, or any other ARM64 (AArch64) hardware, with any supported 64 bits Linux variants should work. 
 
 <h3>1. Configure your Raspberry Pi</h3>
 
