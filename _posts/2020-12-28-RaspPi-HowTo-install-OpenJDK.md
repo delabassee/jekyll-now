@@ -5,7 +5,7 @@ excerpt: "This post shows how to install the latest release of OpenJDK on a Rasp
 ---
 
 <br>
-This short post explains how to install the latest release of OpenJDK, or any release for that matter, on a Raspberry Pi.
+This short post explains how to install the latest release of OpenJDK, or any release for that matter, using the [openjdk.java.net](https://openjdk.java.net) builds, on a Raspberry Pi.
 At the time of writing, the current release is 15.0.1.
 
 Please note that Oracle supports 64-bit ARM for both Oracle JDK builds and Oracle OpenJDK builds (see [here](https://blogs.oracle.com/java-platform-group/update-on-64-bit-arm-support-for-oracle-openjdk-and-oracle-jdk)). 
