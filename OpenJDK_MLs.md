@@ -86,7 +86,7 @@ redirect_from:
 * CodeTools
   * [code-tools-dev](https://mail.openjdk.java.net/pipermail/code-tools-dev)
   * [jmh-dev](https://mail.openjdk.java.net/pipermail/jmh-dev/)
-  * [jmh-jdk-microbenchmarks-dev/](https://mail.openjdk.java.net/pipermail/jmh-jdk-microbenchmarks-dev/)
+  * [jmh-jdk-microbenchmarks-dev](https://mail.openjdk.java.net/pipermail/jmh-jdk-microbenchmarks-dev/)
   * [asmtools-dev](https://mail.openjdk.java.net/pipermail/asmtools-dev)
   * [doccheck-dev](https://mail.openjdk.java.net/pipermail/doccheck-dev/)
   * [jcov-dev](https://mail.openjdk.java.net/pipermail/jcov-dev/)
