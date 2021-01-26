@@ -57,9 +57,9 @@ redirect_from:
 
 [serviceability-dev](https://mail.openjdk.java.net/pipermail/serviceability-dev/)
 
-[portola-dev](https://mail.openjdk.java.net/pipermail/portola-dev/)
+[Kula jshell](https://mail.openjdk.java.net/pipermail/kulla-dev/)
 
-[net-dev](https://mail.openjdk.java.net/pipermail/net-dev/)
+[portola-dev](https://mail.openjdk.java.net/pipermail/portola-dev/)
 
 [build-dev](https://mail.openjdk.java.net/pipermail/build-dev/)
 
@@ -71,13 +71,35 @@ redirect_from:
 
 [jmc-dev](https://mail.openjdk.java.net/pipermail/jmc-dev/)
 
+[jmx](https://mail.openjdk.java.net/pipermail/jmx-dev/2021-January/date.html)
+
 [lanai-dev](https://mail.openjdk.java.net/pipermail/lanai-dev/)
 
-[distro-pkg-dev](https://mail.openjdk.java.net/pipermail/distro-pkg-dev/)
+[Nashorn](https://mail.openjdk.java.net/pipermail/nashorn-dev/)
 
-[Metropolis Java on Java](https://mail.openjdk.java.net/pipermail/metropolis-dev/)
+* Network
+  * [net-dev](https://mail.openjdk.java.net/pipermail/net-dev/)
+  * [nio-dev](https://mail.openjdk.java.net/pipermail/nio-dev/)
 
-[mobile-dev](https://mail.openjdk.java.net/pipermail/mobile-dev/)
+* CodeTools
+  * [code-tools-dev](https://mail.openjdk.java.net/pipermail/code-tools-dev)
+  * [jmh-dev](https://mail.openjdk.java.net/pipermail/jmh-dev/)
+  * [jmh-jdk-microbenchmarks-dev/](https://mail.openjdk.java.net/pipermail/jmh-jdk-microbenchmarks-dev/)
+  * [asmtools-dev](https://mail.openjdk.java.net/pipermail/asmtools-dev)
+  * [doccheck-dev](https://mail.openjdk.java.net/pipermail/doccheck-dev/)
+  * [jcov-dev](https://mail.openjdk.java.net/pipermail/jcov-dev/)
+  * [jemmy-dev](https://mail.openjdk.java.net/pipermail/jemmy-dev/)
+  * [jol-dev](https://mail.openjdk.java.net/pipermail/jol-dev/)
+  * [jtharness-dev](https://mail.openjdk.java.net/pipermail/jtharness-dev/)
+  * [jtreg-dev](https://mail.openjdk.java.net/pipermail/jtreg-dev/)
+  * [jtreg-use](https://mail.openjdk.java.net/pipermail/jtreg-use/)
+
+* Various
+  * [distro-pkg-dev](https://mail.openjdk.java.net/pipermail/distro-pkg-dev/)
+  * [Metropolis Java on Java](https://mail.openjdk.java.net/pipermail/metropolis-dev/)
+  * [mobile-dev](https://mail.openjdk.java.net/pipermail/mobile-dev/)
+
+  
 
 
 
