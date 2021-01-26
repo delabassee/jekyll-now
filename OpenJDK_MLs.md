@@ -77,9 +77,11 @@ redirect_from:
 
 [Nashorn](https://mail.openjdk.java.net/pipermail/nashorn-dev/)
 
+
 * Network
   * [net-dev](https://mail.openjdk.java.net/pipermail/net-dev/)
   * [nio-dev](https://mail.openjdk.java.net/pipermail/nio-dev/)
+
 
 * CodeTools
   * [code-tools-dev](https://mail.openjdk.java.net/pipermail/code-tools-dev)
@@ -93,6 +95,7 @@ redirect_from:
   * [jtharness-dev](https://mail.openjdk.java.net/pipermail/jtharness-dev/)
   * [jtreg-dev](https://mail.openjdk.java.net/pipermail/jtreg-dev/)
   * [jtreg-use](https://mail.openjdk.java.net/pipermail/jtreg-use/)
+
 
 * Various
   * [distro-pkg-dev](https://mail.openjdk.java.net/pipermail/distro-pkg-dev/)
