@@ -106,6 +106,7 @@ redirect_from:
 * [java-record](https://stackoverflow.com/questions/tagged/java-record)
 * [jlink](https://stackoverflow.com/questions/tagged/jlink)
 * [jpms](https://stackoverflow.com/questions/tagged/java-platform-module-system)
+* [preview-features](https://stackoverflow.com/questions/tagged/preview-feature)
 * [project-loom](https://stackoverflow.com/questions/tagged/project-loom)
 * [project-panama](https://stackoverflow.com/questions/tagged/project-panama)
 * [AlanB](https://stackoverflow.com/users/7463126/alan-bateman)
