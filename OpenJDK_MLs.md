@@ -102,12 +102,14 @@ Various
 * [Metropolis Java on Java](https://mail.openjdk.java.net/pipermail/metropolis-dev/)
 * [mobile-dev](https://mail.openjdk.java.net/pipermail/mobile-dev/)
 
-SO
-* https://stackoverflow.com/questions/tagged/project-panama
-* https://stackoverflow.com/questions/tagged/project-loom
-* https://stackoverflow.com/questions/tagged/java
-* https://stackoverflow.com/users/7463126/alan-bateman
-* https://stackoverflow.com/users/1441122/stuart-marks
-* https://stackoverflow.com/users/3553087/brian-goetz
+Stack Overflow
+
+* [java](https://stackoverflow.com/questions/tagged/java)
+* [project-loom](https://stackoverflow.com/questions/tagged/project-loom)
+* [project-panama](https://stackoverflow.com/questions/tagged/project-panama)
+* [AlanB](https://stackoverflow.com/users/7463126/alan-bateman)
+* [BrianG](https://stackoverflow.com/users/3553087/brian-goetz)
+* [StuartS](https://stackoverflow.com/users/1441122/stuart-marks)
+
 
 
