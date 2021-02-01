@@ -25,8 +25,6 @@ redirect_from:
 
 [zgc-dev](https://mail.openjdk.java.net/pipermail/zgc-dev/)
 
-[jdk8u-dev](https://mail.openjdk.java.net/pipermail/jdk8u-dev/)
-
 [Vulnerability](https://mail.openjdk.java.net/pipermail/vuln-announce)
 
 [panama-dev](https://mail.openjdk.java.net/pipermail/panama-dev/)
@@ -57,9 +55,9 @@ redirect_from:
 
 [serviceability-dev](https://mail.openjdk.java.net/pipermail/serviceability-dev/)
 
-[portola-dev](https://mail.openjdk.java.net/pipermail/portola-dev/)
+[Kula jshell](https://mail.openjdk.java.net/pipermail/kulla-dev/)
 
-[net-dev](https://mail.openjdk.java.net/pipermail/net-dev/)
+[portola-dev](https://mail.openjdk.java.net/pipermail/portola-dev/)
 
 [build-dev](https://mail.openjdk.java.net/pipermail/build-dev/)
 
@@ -71,16 +69,50 @@ redirect_from:
 
 [jmc-dev](https://mail.openjdk.java.net/pipermail/jmc-dev/)
 
+[jmx](https://mail.openjdk.java.net/pipermail/jmx-dev/)
+
 [lanai-dev](https://mail.openjdk.java.net/pipermail/lanai-dev/)
 
-[distro-pkg-dev](https://mail.openjdk.java.net/pipermail/distro-pkg-dev/)
 
-[Metropolis Java on Java](https://mail.openjdk.java.net/pipermail/metropolis-dev/)
-
-[mobile-dev](https://mail.openjdk.java.net/pipermail/mobile-dev/)
-
+**Network**
+* [net-dev](https://mail.openjdk.java.net/pipermail/net-dev/)
+* [nio-dev](https://mail.openjdk.java.net/pipermail/nio-dev/)
 
 
+**CodeTools**
+* [code-tools-dev](https://mail.openjdk.java.net/pipermail/code-tools-dev)
+* [jmh-dev](https://mail.openjdk.java.net/pipermail/jmh-dev/)
+* [jmh-jdk-microbenchmarks-dev](https://mail.openjdk.java.net/pipermail/jmh-jdk-microbenchmarks-dev/)
+* [asmtools-dev](https://mail.openjdk.java.net/pipermail/asmtools-dev)
+* [doccheck-dev](https://mail.openjdk.java.net/pipermail/doccheck-dev/)
+* [jcov-dev](https://mail.openjdk.java.net/pipermail/jcov-dev/)
+* [jemmy-dev](https://mail.openjdk.java.net/pipermail/jemmy-dev/)
+* [jol-dev](https://mail.openjdk.java.net/pipermail/jol-dev/)
+* [jtharness-dev](https://mail.openjdk.java.net/pipermail/jtharness-dev/)
+* [jtreg-dev](https://mail.openjdk.java.net/pipermail/jtreg-dev/)
+* [jtreg-use](https://mail.openjdk.java.net/pipermail/jtreg-use/)
+
+
+**Various**
+* [Nashorn](https://mail.openjdk.java.net/pipermail/nashorn-dev/)
+* [distro-pkg-dev](https://mail.openjdk.java.net/pipermail/distro-pkg-dev/)
+* [Metropolis Java on Java](https://mail.openjdk.java.net/pipermail/metropolis-dev/)
+* [mobile-dev](https://mail.openjdk.java.net/pipermail/mobile-dev/)
+* [jdk8u-dev](https://mail.openjdk.java.net/pipermail/jdk8u-dev/)
+
+
+**Stack Overflow**
+* [java](https://stackoverflow.com/questions/tagged/java)
+* [javac](https://stackoverflow.com/questions/tagged/javac)
+* [java-record](https://stackoverflow.com/questions/tagged/java-record)
+* [jlink](https://stackoverflow.com/questions/tagged/jlink)
+* [jpms](https://stackoverflow.com/questions/tagged/java-platform-module-system)
+* [preview-features](https://stackoverflow.com/questions/tagged/preview-feature)
+* [project-loom](https://stackoverflow.com/questions/tagged/project-loom)
+* [project-panama](https://stackoverflow.com/questions/tagged/project-panama)
+* [AlanB](https://stackoverflow.com/users/7463126/alan-bateman)
+* [BrianG](https://stackoverflow.com/users/3553087/brian-goetz)
+* [StuartS](https://stackoverflow.com/users/1441122/stuart-marks)
 
 
 
