@@ -71,7 +71,7 @@ redirect_from:
 
 [jmc-dev](https://mail.openjdk.java.net/pipermail/jmc-dev/)
 
-[jmx](https://mail.openjdk.java.net/pipermail/jmx-dev/2021-January/date.html)
+[jmx](https://mail.openjdk.java.net/pipermail/jmx-dev/)
 
 [lanai-dev](https://mail.openjdk.java.net/pipermail/lanai-dev/)
 
