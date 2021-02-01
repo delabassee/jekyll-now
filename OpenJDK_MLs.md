@@ -105,6 +105,8 @@ Various
 Stack Overflow
 
 * [java](https://stackoverflow.com/questions/tagged/java)
+* [jlink](https://stackoverflow.com/questions/tagged/jlink)
+* [jpms](https://stackoverflow.com/questions/tagged/java-platform-module-system)
 * [project-loom](https://stackoverflow.com/questions/tagged/project-loom)
 * [project-panama](https://stackoverflow.com/questions/tagged/project-panama)
 * [AlanB](https://stackoverflow.com/users/7463126/alan-bateman)
