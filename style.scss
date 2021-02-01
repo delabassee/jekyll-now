@@ -298,6 +298,23 @@ footer {
   text-align: center;
 }
 
+
+.infobox {
+  box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.3);
+  overflow-x: hidden !important;
+  border-radius: 6px;
+  padding: 6px;
+  padding-right: 10px;
+  padding-top: 10px
+}
+
+// default left col is for icon, right is for text
+.infoboxcol {
+  margin-left: 26px;
+  margin-top: -26px;
+}
+
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
