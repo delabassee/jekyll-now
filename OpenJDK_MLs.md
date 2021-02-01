@@ -25,8 +25,6 @@ redirect_from:
 
 [zgc-dev](https://mail.openjdk.java.net/pipermail/zgc-dev/)
 
-[jdk8u-dev](https://mail.openjdk.java.net/pipermail/jdk8u-dev/)
-
 [Vulnerability](https://mail.openjdk.java.net/pipermail/vuln-announce)
 
 [panama-dev](https://mail.openjdk.java.net/pipermail/panama-dev/)
@@ -75,15 +73,13 @@ redirect_from:
 
 [lanai-dev](https://mail.openjdk.java.net/pipermail/lanai-dev/)
 
-[Nashorn](https://mail.openjdk.java.net/pipermail/nashorn-dev/)
 
-
-Network
+**Network**
 * [net-dev](https://mail.openjdk.java.net/pipermail/net-dev/)
 * [nio-dev](https://mail.openjdk.java.net/pipermail/nio-dev/)
 
 
-CodeTools
+**CodeTools**
 * [code-tools-dev](https://mail.openjdk.java.net/pipermail/code-tools-dev)
 * [jmh-dev](https://mail.openjdk.java.net/pipermail/jmh-dev/)
 * [jmh-jdk-microbenchmarks-dev](https://mail.openjdk.java.net/pipermail/jmh-jdk-microbenchmarks-dev/)
@@ -97,13 +93,15 @@ CodeTools
 * [jtreg-use](https://mail.openjdk.java.net/pipermail/jtreg-use/)
 
 
-Various
+**Various**
+* [Nashorn](https://mail.openjdk.java.net/pipermail/nashorn-dev/)
 * [distro-pkg-dev](https://mail.openjdk.java.net/pipermail/distro-pkg-dev/)
 * [Metropolis Java on Java](https://mail.openjdk.java.net/pipermail/metropolis-dev/)
 * [mobile-dev](https://mail.openjdk.java.net/pipermail/mobile-dev/)
+* [jdk8u-dev](https://mail.openjdk.java.net/pipermail/jdk8u-dev/)
 
-Stack Overflow
 
+**Stack Overflow**
 * [java](https://stackoverflow.com/questions/tagged/java)
 * [jlink](https://stackoverflow.com/questions/tagged/jlink)
 * [jpms](https://stackoverflow.com/questions/tagged/java-platform-module-system)
