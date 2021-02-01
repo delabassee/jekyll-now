@@ -34,7 +34,7 @@ It is sometimes tricky to use SSH on older Windows versions. An alternative solu
 
 <div class="infobox">
 ⚠️  
-	<div class= "infoboxcol">Make sure to fully assess and validate this extension when using it with sensible SSH keys!.
+	<div class= "infoboxcol">Make sure to fully assess and validate this extension when using it with sensible SSH keys!!
 	</div>
 </div>	
 
