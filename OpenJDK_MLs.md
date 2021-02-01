@@ -103,6 +103,7 @@ redirect_from:
 
 **Stack Overflow**
 * [java](https://stackoverflow.com/questions/tagged/java)
+* [java-record](https://stackoverflow.com/questions/tagged/java-record)
 * [jlink](https://stackoverflow.com/questions/tagged/jlink)
 * [jpms](https://stackoverflow.com/questions/tagged/java-platform-module-system)
 * [project-loom](https://stackoverflow.com/questions/tagged/project-loom)
