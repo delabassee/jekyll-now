@@ -7,55 +7,34 @@ redirect_from:
   - /MLs/
   - /mls/
 ---
-**[All](http://mail.openjdk.java.net/mailman/listinfo)**
+**[All MLs](http://mail.openjdk.java.net/mailman/listinfo)**
 
-[jdk-dev](https://mail.openjdk.java.net/pipermail/jdk-dev/)
+**Core**
 
-[core-libs-dev](https://mail.openjdk.java.net/pipermail/core-libs-dev/)
-
-[panama-dev](https://mail.openjdk.java.net/pipermail/panama-dev/)
-
-[loom-dev](https://mail.openjdk.java.net/pipermail//loom-dev)
-
-[hotspot-runtime-dev](https://mail.openjdk.java.net/pipermail/hotspot-runtime-dev/)
-
-[hotspot-dev](https://mail.openjdk.java.net/pipermail/hotspot-dev/)
-
-[hotspot-compiler-dev](https://mail.openjdk.java.net/pipermail/hotspot-compiler-dev/)
-
-[hotspot-jfr-dev](https://mail.openjdk.java.net/pipermail/hotspot-jfr-dev)
-
-[Valhala](https://mail.openjdk.java.net/pipermail/valhalla-dev/)
-
-[amber-experts](https://mail.openjdk.java.net/pipermail/amber-spec-experts/)
-
-[amber-dev](https://mail.openjdk.java.net/pipermail/amber-dev/)
-
-[compiler-dev](https://mail.openjdk.java.net/pipermail/compiler-dev/)
-
-[openjfx-dev](https://mail.openjdk.java.net/pipermail/openjfx-dev)
-
-[serviceability-dev](https://mail.openjdk.java.net/pipermail/serviceability-dev/)
-
-[Kula jshell](https://mail.openjdk.java.net/pipermail/kulla-dev/)
-
-[portola-dev](https://mail.openjdk.java.net/pipermail/portola-dev/)
-
-[javadoc-dev](https://mail.openjdk.java.net/pipermail/javadoc-dev/)
-
-[jmc-dev](https://mail.openjdk.java.net/pipermail/jmc-dev/)
-
-[jmx](https://mail.openjdk.java.net/pipermail/jmx-dev/)
-
-[zgc-dev](https://mail.openjdk.java.net/pipermail/zgc-dev/)
-
-[Skara](https://mail.openjdk.java.net/pipermail/skara-dev)
-
-[lanai-dev](https://mail.openjdk.java.net/pipermail/lanai-dev/)
-
-[Guide Dev](https://mail.openjdk.java.net/pipermail/guide-dev/)
-
-[jdk-updates-dev](https://mail.openjdk.java.net/pipermail/jdk-updates-dev)
+* [jdk-dev](https://mail.openjdk.java.net/pipermail/jdk-dev/
+* [core-libs-dev](https://mail.openjdk.java.net/pipermail/core-libs-dev/)
+* [panama-dev](https://mail.openjdk.java.net/pipermail/panama-dev/)
+* [loom-dev](https://mail.openjdk.java.net/pipermail//loom-dev)
+* [hotspot-runtime-dev](https://mail.openjdk.java.net/pipermail/hotspot-runtime-dev/)
+* [hotspot-dev](https://mail.openjdk.java.net/pipermail/hotspot-dev/)
+* [hotspot-compiler-dev](https://mail.openjdk.java.net/pipermail/hotspot-compiler-dev/)
+* [hotspot-jfr-dev](https://mail.openjdk.java.net/pipermail/hotspot-jfr-dev)
+* [Valhala](https://mail.openjdk.java.net/pipermail/valhalla-dev/)
+* [amber-experts](https://mail.openjdk.java.net/pipermail/amber-spec-experts/)
+* [amber-dev](https://mail.openjdk.java.net/pipermail/amber-dev/)
+* [compiler-dev](https://mail.openjdk.java.net/pipermail/compiler-dev/)
+* [openjfx-dev](https://mail.openjdk.java.net/pipermail/openjfx-dev)
+* [serviceability-dev](https://mail.openjdk.java.net/pipermail/serviceability-dev/)
+* [Kula jshell](https://mail.openjdk.java.net/pipermail/kulla-dev/)
+* [portola-dev](https://mail.openjdk.java.net/pipermail/portola-dev/)
+* [javadoc-dev](https://mail.openjdk.java.net/pipermail/javadoc-dev/)
+* [jmc-dev](https://mail.openjdk.java.net/pipermail/jmc-dev/)
+* [jmx](https://mail.openjdk.java.net/pipermail/jmx-dev/)
+* [zgc-dev](https://mail.openjdk.java.net/pipermail/zgc-dev/)
+* [Skara](https://mail.openjdk.java.net/pipermail/skara-dev)
+* [lanai-dev](https://mail.openjdk.java.net/pipermail/lanai-dev/)
+* [Guide Dev](https://mail.openjdk.java.net/pipermail/guide-dev/)
+* [jdk-updates-dev](https://mail.openjdk.java.net/pipermail/jdk-updates-dev)
 
 
 **Org**
