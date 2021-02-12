@@ -11,7 +11,7 @@ redirect_from:
 
 **Core**
 
-* [jdk-dev](https://mail.openjdk.java.net/pipermail/jdk-dev/
+* [jdk-dev](https://mail.openjdk.java.net/pipermail/jdk-dev/)
 * [core-libs-dev](https://mail.openjdk.java.net/pipermail/core-libs-dev/)
 * [panama-dev](https://mail.openjdk.java.net/pipermail/panama-dev/)
 * [loom-dev](https://mail.openjdk.java.net/pipermail//loom-dev)
