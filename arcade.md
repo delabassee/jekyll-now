@@ -16,5 +16,7 @@ redirect_from:
 
 [https://www.gc8tech.com/](https://www.gc8tech.com/)
 
+[https://www.rep-arcade.com/](https://www.rep-arcade.com/)
+
 [SuperGun Fr](https://www.r2tronik.com/fr/14-videogame-systems?page=2)
 
