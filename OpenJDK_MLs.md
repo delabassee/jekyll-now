@@ -88,6 +88,7 @@ redirect_from:
 * [project-loom](https://stackoverflow.com/questions/tagged/project-loom)
 * [project-panama](https://stackoverflow.com/questions/tagged/project-panama)
 * [AlanB](https://stackoverflow.com/users/7463126/alan-bateman)
+* [Jorn](https://stackoverflow.com/users/3699139/jorn-vernee)
 * [BrianG](https://stackoverflow.com/users/3553087/brian-goetz)
 * [StuartS](https://stackoverflow.com/users/1441122/stuart-marks)
 
