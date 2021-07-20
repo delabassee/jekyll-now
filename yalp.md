@@ -5,5 +5,4 @@ permalink: /yalp/
 redirect_from:
 ---
 
-
 <!-- // PLAYGROUND -->
