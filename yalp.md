@@ -1,6 +1,6 @@
 ---
 layout: yalp
-title: Yalp
+title: YALP
 permalink: /yalp/
 redirect_from:
 ---
